@@ -220,7 +220,7 @@ class Intern extends Candidate {
     }
 }
 
-class LTHDT {
+class lthdt {
     public static void main(String[] args) {
         
         System.out.println("NHAP THONG TIN UNG VIEN EXPERIENCE ");
